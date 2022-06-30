@@ -1,6 +1,6 @@
 # Image Colorization Using Conditional Generative Adversarial Network
-  ![](black_white.png)
-  ![](color_image.png)
+  ![](Black_White.jpeg)
+  ![](Colour.jpeg)
 ## Table of Contents:
 * Overview of project
 * CGAN and Model Architecture
